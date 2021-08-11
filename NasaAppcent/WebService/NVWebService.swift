@@ -10,7 +10,7 @@ import UIKit
 import Alamofire
 
 // a new key was generated
-let Key = "TP8pA3daIzhFRXNAdmMuCMbXeV3l9NjMq4zZmnSl"
+let Key = "Okz64J3UJ48i3IkHHbDkv1h0UddOcakSzaKcyjJu"
 
 enum ApiEndPoints {
     case curiosity
