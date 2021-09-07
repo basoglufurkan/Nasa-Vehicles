@@ -1,6 +1,6 @@
 # Nasa-Vehicles
 
-ReminderApp uygulaması Swift 5 dili ile geliştirilen bir iOS uygulamasıdır.
+Nasa Vehicles uygulaması Swift 5 dili ile geliştirilen bir iOS uygulamasıdır.
 
 Bu app, Nasa’nın gönderdiği rover araçlarının çektiği resimlerden oluşur.
 
